@@ -30,5 +30,5 @@ A small, beginner-friendly app that predicts whether a text message is **Spam** 
 - Try TF-IDF + Logistic Regression and compare
 - Deploy to Streamlit Community Cloud and link it here
 
-## Tech
+## Technologies Used
 Python · pandas · scikit-learn · Streamlit
